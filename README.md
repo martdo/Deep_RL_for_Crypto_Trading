@@ -10,3 +10,7 @@ https://github.com/martdo/Deep_RL_for_Crypto_Trading/blob/master/20190202_RS_wit
 
 Analysis of the results:
 https://github.com/martdo/Deep_RL_for_Crypto_Trading/blob/master/Master_analyze_results_1.ipynb
+
+
+DRL framework:
+https://github.com/martdo/Deep_RL_for_Crypto_Trading/blob/master/DRL_systems.PNG
